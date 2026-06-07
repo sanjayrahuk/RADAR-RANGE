@@ -51,9 +51,6 @@ plot(R / 1000, Pt_req_dBW, "b-", "linewidth", 2);
 xtitle("Required Transmitted Power vs. Radar Range", "Range (km)", "Required Transmitted Power (dBW)");
 xgrid();
 ```
-## TABULATION
-
-<img width="1600" height="1081" alt="image" src="https://github.com/user-attachments/assets/819ade22-e9ee-4548-b480-9ff9a0e73ea1" />
 
 
 ## OUTPUT 
